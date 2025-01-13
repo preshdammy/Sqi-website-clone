@@ -16,7 +16,9 @@ const Sqi4 = () => {
         <div className='sec6container'>
           <img src="/sqiimgs23.jpg" alt="Logo" />
           <div className='blue'></div>
-          <div className='white'> </div>
+          <div className='white'> 
+          <iframe width="396" height="223" src="https://www.youtube.com/embed/HgC6bjMbqpw" title="Campus Tour | SQI College of ICT, Ibadan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
           <div className='sec6text'>
             <span>Take a tour</span>
             <small>Our campus is a living centre for innovation and creativity for sustainability. We love showing students our campus and allowing them to see, hear and feel the excitement that comes with being part of the Central community which is an atmosphere that is open-minded, always exciting, and filled with academic excellence.</small>

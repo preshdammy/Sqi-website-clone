@@ -927,7 +927,7 @@ color: rgb(224, 97, 0);
   background-color: rgb(221,221,221);
   border-radius: 20px;
   position: absolute;
-  left: 300px;
+  left: 250px;
   top: 150px;
 }
 .white img{
@@ -1600,4 +1600,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: start;
   align-items: center;
+}
+iframe{
+  border-radius: 20px;
+  margin-right: 20px;
 }
