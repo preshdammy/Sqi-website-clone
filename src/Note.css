@@ -1,0 +1,49 @@
+#container{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  /* background-color: aqua; */
+  flex-direction: column;
+  gap: 50px;
+  background-image: url(https://img.freepik.com/premium-photo/plain-black-background-articles-plain-black-background-solid-black-backdrop-design_1020697-740378.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
+
+/* #subcontainer{
+  width: 35%;
+  height: 50vh;
+  border: 1px dashed whitesmoke;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px;
+
+
+} */
+
+h1{
+ font-family: fantasy;
+ font-size: 60px;
+ letter-spacing: 1px;
+ color: rgb(214, 222, 233);
+ font-weight: 100;
+}
+
+span{
+  font-weight: 500;
+  font-size: 22px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: lightsteelblue;
+
+}
+
+p{
+  font-weight: 100;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightsteelblue;
+}
