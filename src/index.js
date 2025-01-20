@@ -10,6 +10,10 @@ import Sqi3 from './Sqi3';
 import Sqi4 from './Sqi4';
 import Sqi5 from './Sqi5';
 import Sqi6 from './Sqi6';
+import Comp from './Components/Comp'
+import Task from './Task';
+import Todo1 from './Todo1';
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,13 +21,16 @@ root.render(
   <React.StrictMode>
     <App />
     <Home />
-    <Note />
-    <Sqi11 />
+    {/* <Note /> */}
+    {/* <Sqi11 />
     <Sqi2 />
     <Sqi3 />
     <Sqi4 />
     <Sqi5 />
-    <Sqi6 />
+    <Sqi6 /> */}
+    {/* <Comp /> */}
+    {/* <Task /> */}
+    <Todo1 />
   </React.StrictMode>
 );
 
